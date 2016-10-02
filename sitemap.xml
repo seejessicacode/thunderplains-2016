@@ -23,14 +23,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/women-in-tech/bio.html</loc>
-    
-    <lastmod>2016-10-01T19:18:41.305Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/steve-kinney/entry.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/women-in-tech/description.html</loc>
     
     <lastmod>2016-10-01T19:18:41.305Z</lastmod>
     
@@ -51,7 +44,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/women-in-tech/description.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/steve-kinney/entry.html</loc>
+    
+    <lastmod>2016-10-01T19:18:41.305Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/women-in-tech/bio.html</loc>
     
     <lastmod>2016-10-01T19:18:41.305Z</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/steve-kinney/bullets.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/steve-kinney/bio.html</loc>
     
     <lastmod>2016-10-01T19:18:41.289Z</lastmod>
     
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/steve-kinney/bio.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/steve-kinney/bullets.html</loc>
     
     <lastmod>2016-10-01T19:18:41.289Z</lastmod>
     
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/kassandra-perch/entry.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/james-simpson/bullets.html</loc>
     
     <lastmod>2016-10-01T19:18:41.250Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/james-simpson/bullets.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/kassandra-perch/description.html</loc>
     
     <lastmod>2016-10-01T19:18:41.250Z</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/kassandra-perch/description.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/kassandra-perch/entry.html</loc>
     
     <lastmod>2016-10-01T19:18:41.250Z</lastmod>
     
@@ -226,14 +226,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/bullets.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/entry.html</loc>
     
     <lastmod>2016-10-01T19:18:41.235Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/entry.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/frank-d-evans/bullets.html</loc>
     
     <lastmod>2016-10-01T19:18:41.235Z</lastmod>
     
@@ -324,13 +324,6 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/ben-ilegbodu/bio.html</loc>
-    
-    <lastmod>2016-10-01T19:18:41.189Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/speakers/ben-ilegbodu/entry.html</loc>
     
     <lastmod>2016-10-01T19:18:41.189Z</lastmod>
@@ -345,7 +338,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/description.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/ben-ilegbodu/bio.html</loc>
+    
+    <lastmod>2016-10-01T19:18:41.189Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/entry.html</loc>
     
     <lastmod>2016-10-01T19:18:41.189Z</lastmod>
     
@@ -359,7 +359,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/entry.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/adam-baldwin/description.html</loc>
     
     <lastmod>2016-10-01T19:18:41.189Z</lastmod>
     
@@ -387,14 +387,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/cfp.html</loc>
-    
-    <lastmod>2016-10-01T19:18:41.152Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/code-of-conduct.html</loc>
+    <loc>http://thunderplainsconf.com/about-conference.html</loc>
     
     <lastmod>2016-10-01T19:18:41.152Z</lastmod>
     
@@ -408,7 +401,14 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/about-conference.html</loc>
+    <loc>http://thunderplainsconf.com/code-of-conduct.html</loc>
+    
+    <lastmod>2016-10-01T19:18:41.152Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/cfp.html</loc>
     
     <lastmod>2016-10-01T19:18:41.152Z</lastmod>
     
