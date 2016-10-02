@@ -28,6 +28,14 @@ function equalizeLocationImages(){
   var panoramaHeight = $locationPanorama.height();
   var parkingHeight = $locationParking.height();
 
+  if(panoramaHeight < 150){
+    panoramaHeight = 150;
+  }
+
+  if(panoramaHeight > 500){
+    panoramaHeight = 500;
+  }
+
   $locationParking.height(panoramaHeight);
   $locationPanorama.height(panoramaHeight);
 
